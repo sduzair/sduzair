@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dog Photo
-<img src="https://dog.ceo/api/breeds/image/random" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sduzair&icon=0&color=0)](https://visitcount.itsvg.in)
 #   s d u z a i r 
