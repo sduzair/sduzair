@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dog Photo
-<img src="https://random-memer.herokuapp.com/](https://dog.ceo/api/breeds/image/random" width="512px"/>
+<img src="https://dog.ceo/api/breeds/image/random" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sduzair&icon=0&color=0)](https://visitcount.itsvg.in)
