@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building a interative dashboards developed for displaying key trends and insights. This dashboard would be supported by an ELT pipeline.<br>🚀 I am an aspiring Data Engineer higly passionate about building scalable and maintainable data solutions that facilitate data-driven business decisions. <br>🌱 My favorite languages are Python, SQL, and Javascript/Typescript.<br>⚡ My favorite quote "If you fail to plan, you plan to fail!"
+🔭 I am currently working on building interative dashboards developed for displaying key trends and insights. This dashboard would be supported by an ELT pipeline.<br>🚀 I am an aspiring Data Engineer higly passionate about building scalable and maintainable data solutions that facilitate data-driven business decisions. <br>🌱 My favorite languages are Python, SQL, and Javascript/Typescript.<br>⚡ My favorite quote "If you fail to plan, you plan to fail!"
 
 
 ## 🌐 Socials:
