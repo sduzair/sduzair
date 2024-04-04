@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on building a RestfulApi following the conventions on Clean Architecture and DDD. These principles help in writing high quality software that is highly maintainable and scalable. <br>🚀 I am a Full-stack web developer. I am passionate about writing software and bring their requirements to life in the form of software. <br>🌱 My favorite languages are C#, Typescript, Dart, and Java. I like working on technologies like .NET Core, React, Flutter, Docker and Kubernetes.<br>💬 I am seeking opportunities in DevOps and Full-stack development.<br>⚡ My favorite quote "If you fail to plan, you plan to fail!"
+🔭 I am currently working on building a interative dashboards developed for displaying key trends and insights. This dashboard would be supported by an ELT pipeline.<br>🚀 I am an aspiring Data Engineer higly passionate about building scalable and maintainable data solutions that facilitate data-driven business decisions. <br>🌱 My favorite languages are Python, SQL, and Javascript/Typescript.<br>⚡ My favorite quote "If you fail to plan, you plan to fail!"
 
 
 ## 🌐 Socials:
