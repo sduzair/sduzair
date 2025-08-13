@@ -1,9 +1,9 @@
-💫 About Me:
-🔭 I'm currently building advanced web applications using Angular and .NET, focusing on delivering seamless user experiences and powerful backend capabilities.
-🚀 I'm a frontend and backend developer enthusiastic about designing scalable, efficient, and intuitive software solutions.
-🌱 My core tech stack features Angular for frontend development and .NET for backend services, supported by experience with REST APIs and modern web development tools.
-⚡ My favorite development principle: "Clean code and clear architecture lay the foundation for future-proof applications!"
-💡 I specialize in integrating frontend interfaces with robust .NET backends, translating business requirements into maintainable, high-quality code.
+# 💫 About Me:
+- 🔭 I'm currently building advanced web applications using Angular and .NET, focusing on delivering seamless user experiences and powerful backend capabilities.
+- 🚀 I'm a frontend and backend developer enthusiastic about designing scalable, efficient, and intuitive software solutions.
+- 🌱 My core tech stack features Angular for frontend development and .NET for backend services, supported by experience with REST APIs and modern web development tools.
+- ⚡ My favorite development principle: "Clean code and clear architecture lay the foundation for future-proof applications!"
+- 💡 I specialize in integrating frontend interfaces with robust .NET backends, translating business requirements into maintainable, high-quality code.
 <br>
 
 ## 🌐 Socials:
