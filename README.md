@@ -1,9 +1,10 @@
-# 💫 About Me:
-🔭 I'm currently developing a comprehensive driver testing system with robust end-to-end testing and BDD principles.<br>
-🚀 I'm a passionate QA Test Automation Engineer dedicated to creating reliable, efficient, and user-centric software solutions.<br>
-🌱 My tech stack includes Node.js, Express.js, MongoDB, and Selenium WebDriver for test automation.<br>
-⚡ My favorite testing principle: "Early testing saves time and money in the long run!"<br>
-💡 I specialize in implementing BDD practices and creating user stories that bridge the gap between technical and non-technical stakeholders.<br>
+💫 About Me:
+🔭 I'm currently building advanced web applications using Angular and .NET, focusing on delivering seamless user experiences and powerful backend capabilities.
+🚀 I'm a frontend and backend developer enthusiastic about designing scalable, efficient, and intuitive software solutions.
+🌱 My core tech stack features Angular for frontend development and .NET for backend services, supported by experience with REST APIs and modern web development tools.
+⚡ My favorite development principle: "Clean code and clear architecture lay the foundation for future-proof applications!"
+💡 I specialize in integrating frontend interfaces with robust .NET backends, translating business requirements into maintainable, high-quality code.
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-ahmed-syed-91681211a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18205353) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sduzair) 
