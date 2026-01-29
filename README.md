@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats-eight.vercel.app/api?username=sduzair&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=sduzair&theme=highcontrast)](https://git.io/streak-stats)<br/>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=sduzair&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
